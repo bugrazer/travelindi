@@ -1,2 +1,0 @@
-# travelindiapoint
-website hosting
